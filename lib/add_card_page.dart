@@ -61,7 +61,7 @@ class _AddCardPageState extends State<AddCardPage> {
             "hexBackgroundColor": "#fcf526",
             "logo": {
               "sourceUri": {
-                "uri": "https://static.coinall.ltd/cdn/oksupport/asset/currency/icon/btc.png"
+                "uri": "https://storage.googleapis.com/wallet-lab-tools-codelab-artifacts-public/pass_google_logo.jpg"
               }
             },
             "cardTitle": {
